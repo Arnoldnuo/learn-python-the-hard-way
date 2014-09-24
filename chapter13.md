@@ -57,4 +57,6 @@ ValueError: need more than 3 values to unpack`
 
 ##进阶练习
 
+##学生提问
 
+- 为什么我运行的时候，得到了一个错误：need more than 1 value to unpack?<br />你要记住，注意细节是很重要的技能。如果你看看__你应该看到__章节，你就会看到我运行的时候在命令行中加了几个参数。你应该重复一下我是怎么运行的。
